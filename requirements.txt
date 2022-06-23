@@ -1,0 +1,11 @@
+numpy
+opencv-python
+diplib
+matplotlib
+scipy
+scikit-image
+scikit-learn
+
+tensorflow
+tensorflow_addons
+keras
